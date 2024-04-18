@@ -12,5 +12,5 @@ Please update the ISE hostname and credential in the script!
 #How to run  
 
 `python3 update-custom-dACL.py  
-`dACl name: TEST1, New name: TEST1_custom
-`Successfully updated dACL TEST1 to new name: TEST1_custom
+`dACl name: TEST1, New name: TEST1_custom  
+`Successfully updated dACL TEST1 to new name: TEST1_custom  
